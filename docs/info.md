@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+there are total of 3 inputs, the first two inputs are 1 bit inputs and they are added. the third input represents the carry value.
 
 ## How to test
 
-Explain how to use your project
+input your 1 bit values to be added to the first two inputs
 
 ## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Two LEDs are being used, along with two XOR, two AND, and one OR gate
