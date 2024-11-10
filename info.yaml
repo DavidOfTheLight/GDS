@@ -35,14 +35,14 @@ pinout:
   uo[7]: "OUT7"
 
   # Bidirectional pins
-  uio[0]: ""
-  uio[1]: ""
-  uio[2]: ""
-  uio[3]: ""
-  uio[4]: ""
-  uio[5]: ""
-  uio[6]: ""
-  uio[7]: ""
+  uio[0]: "BI1"
+  uio[1]: "BI2"
+  uio[2]: "BI3"
+  uio[3]: "BI4"
+  uio[4]: "BI5"
+  uio[5]: "BI6"
+  uio[6]: "BI7"
+  uio[7]: "BI8"
 
 # Do not change!
 yaml_version: 6
